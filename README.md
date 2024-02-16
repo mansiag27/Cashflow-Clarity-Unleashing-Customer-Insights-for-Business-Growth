@@ -16,6 +16,6 @@ Format: Text (e.g. Groceries, Clothing, Housing, Education, Health, Motor/Travel
 Savings, Bills and Utilities, Tax, Fines)
 10)Amount--Amount of transaction Numeric (e.g., 20.27)
 # Technologies Used:
-AWS: S3, RDS, GLUE, ATHENA, CFT,EMR
-TABLUE,POWER BI
-PYTHON
+* AWS: S3, RDS, GLUE, ATHENA, CFT,EMR
+* TABLUE,POWER BI
+* PYTHON
